@@ -406,8 +406,8 @@
     },
     {
       "cid": 0,
-      "name": "JTV",
-      "stream_url": "http://122.248.43.138:1935/ch2/myStream/playlist.m3u8"
+      "name": "Jin TV",
+      "stream_url": "https://live.jintv.org:12443/medialive/jintv.m3u8"
     },
     {
       "cid": 3,
@@ -461,8 +461,8 @@
     },
     {
       "cid": 0,
-      "name": "MNC TV",
-      "stream_url": "https://linier3.rctiplus.id/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo.m3u8"
+      "name": "Aryen TV",
+      "stream_url": "https://live.karwan.tv/karwan.tv/aryen-tv/chunks.m3u8"
     },
     {
       "cid": 2,
@@ -536,8 +536,8 @@
     },
     {
       "cid": 0,
-      "name": "NET. TV",
-      "stream_url": "http://210.210.155.35/qwr9ew/s/s08/01.m3u8"
+      "name": "Rojava TV",
+      "stream_url": "https://live.karwan.tv/karwan.tv/rojava-tv/chunks.m3u8"
     },
     {
       "cid": 1,
@@ -576,8 +576,8 @@
     },
     {
       "cid": 0,
-      "name": "RCTI",
-      "stream_url": "https://linier3.rctiplus.id/live/eds/RCTI_Logo/sa_hls/RCTI_Logo.m3u8"
+      "name": "Çıra TV",
+      "stream_url": "https://live.karwan.tv/karwan.tv/cira-tv/chunks.m3u8"
     },
     {
       "cid": 7,
@@ -616,8 +616,8 @@
     },
     {
       "cid": 0,
-      "name": "SCTV",
-      "stream_url": "https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8"
+      "name": "Artı TV",
+      "stream_url": "https://live.karwan.tv/karwan.tv/arti-tv/chunks.m3u8"
     },
     {
       "cid": 2,
