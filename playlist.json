@@ -336,8 +336,8 @@
     },
     {
       "cid": 0,
-      "name": "GTV",
-      "stream_url": "https://linier3.rctiplus.id/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8"
+      "name": "Sterk TV",
+      "stream_url": "http://137.74.205.201/live2/sterk-3mbps.m3u8"
     },
     {
       "cid": 2,
@@ -381,8 +381,8 @@
     },
     {
       "cid": 0,
-      "name": "Indosiar",
-      "stream_url": "http://45.126.83.51/qwr9ew/s/s04/01.m3u8"
+      "name": "Med Muzik TV",
+      "stream_url": "http://137.74.205.201/live3/mm-3mbps.m3u8"
     },
     {
       "cid": 1,
