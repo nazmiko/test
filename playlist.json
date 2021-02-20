@@ -677,7 +677,7 @@
     {
       "cid": 0,
       "name": "TATV",
-      "stream_url": "http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8"
+      "stream_url": "http://87.120.36.57:8080/hls/streama142133/index.m3u8?cst=93e82d3cb402e75783038fc827b910b5"
     },
     {
       "cid": 6,
