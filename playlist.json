@@ -402,7 +402,7 @@
     {
       "cid": 0,
       "name": "Ronahi TV",
-      "stream_url": "https://live.karwan.tv/karwan.tv/ronahi-tv/chunks.m3u8"
+      "stream_url": "https://live.karwan.tv/ronahi-tv/index.m3u8?token=692df5e73fc3e98becf8ad282d27ee0d04b200ce-04ef7a2463907d23182b633a1eb3a069-1685291511-1685280711&remote=no_check_ip%22"
     },
     {
       "cid": 0,
