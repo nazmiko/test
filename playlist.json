@@ -382,7 +382,7 @@
     {
       "cid": 0,
       "name": "Med Muzik TV",
-      "stream_url": "https://live.karwan.tv/med-muzik-tv/index.m3u8?token=f1cc27afe2b6a578de5c7a3cfa0dc82e31151eee-32652cc3c170ea8c03870504bda34933-1685294614-1685283814&remote=no_check_ip"
+      "stream_url": "http://137.74.205.201/medmuzik/MedStream/playlist.m3u8"
     },
     {
       "cid": 1,
